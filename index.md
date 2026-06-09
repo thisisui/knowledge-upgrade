@@ -5,6 +5,8 @@ title: Knowledge Digests
 
 A personal reading log. Each entry is a short summary of an article worth remembering — what it says, why it matters, and what to do differently as a result.
 
+<div id="tag-filters" style="margin-bottom:1rem"></div>
+
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
 | 1 | 2026-06-09 | [Encoding Team Standards](digests/2026-06-09-encoding-team-standards.md) | ai, engineering, devex | ★★★☆☆ | Encode senior engineers' prompt instincts as versioned repo instruction files so AI output quality is consistent across the team. |
@@ -23,3 +25,47 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 | 14 | 2026-06-09 | [AI Fatigue Is Real and Nobody Talks About It](digests/2026-06-09-ai-fatigue-is-real.md) | ai, engineering, devex | ★★★☆☆ | AI shifts your role to reviewing rather than creating — which is more draining. Practical rules: 3-attempt limit, 70% threshold, mornings AI-free. |
 | 15 | 2026-06-09 | [Making Emojis and Icons Screen Reader Accessible](digests/2026-06-09-making-emojis-and-icons-accessible.md) | engineering, design | ★★★☆☆ | Three HTML patterns for emojis and icon-only buttons: aria-label, aria-hidden + sr-only span, or visible text label — each for different design constraints. |
 | 16 | 2026-06-09 | [Craft Is Untouchable](digests/2026-06-09-craft-is-untouchable.md) | ai, design, leadership | ★★★☆☆ | AI doesn't kill craft — it makes it easier to skip. The discipline of iteration and refinement is still what separates adequate from excellent work. |
+
+<script>
+(function () {
+  const table = document.querySelector("table");
+  const container = document.getElementById("tag-filters");
+  if (!table || !container) return;
+
+  const rows = Array.from(table.querySelectorAll("tbody tr"));
+  const tagIndex = 3; // 0-based column index for Tags
+
+  const allTags = new Set();
+  rows.forEach(row => {
+    const cell = row.cells[tagIndex];
+    if (!cell) return;
+    cell.textContent.split(",").forEach(t => allTags.add(t.trim()));
+  });
+
+  let active = null;
+
+  const pills = Array.from(allTags).sort().map(tag => {
+    const btn = document.createElement("button");
+    btn.textContent = tag;
+    btn.style.cssText = "margin:0 4px 4px 0;padding:3px 10px;border:1px solid #aaa;border-radius:12px;background:#fff;cursor:pointer;font-size:0.85em";
+    btn.addEventListener("click", () => {
+      if (active === tag) {
+        active = null;
+        rows.forEach(r => r.style.display = "");
+        pills.forEach(p => p.style.background = "#fff");
+      } else {
+        active = tag;
+        rows.forEach(r => {
+          const cell = r.cells[tagIndex];
+          const tags = cell ? cell.textContent.split(",").map(t => t.trim()) : [];
+          r.style.display = tags.includes(tag) ? "" : "none";
+        });
+        pills.forEach(p => p.style.background = p === btn ? "#e8e8e8" : "#fff");
+      }
+    });
+    return btn;
+  });
+
+  pills.forEach(p => container.appendChild(p));
+})();
+</script>
