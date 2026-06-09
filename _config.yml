@@ -1,0 +1,25 @@
+title: Knowledge Digests
+description: A personal reading log — summaries of articles worth remembering.
+theme: minima
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: false
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+
+minima:
+  skin: classic
+
+defaults:
+  - scope:
+      path: "digests"
+    values:
+      layout: page
