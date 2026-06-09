@@ -1,6 +1,7 @@
 title: Knowledge Digests
 description: A personal reading log — summaries of articles worth remembering.
 theme: minima
+header_pages: []
 
 plugins:
   - jekyll-relative-links
