@@ -25,6 +25,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 | 14 | 2026-06-09 | [AI Fatigue Is Real and Nobody Talks About It](digests/2026-06-09-ai-fatigue-is-real.md) | ai, engineering, devex | ★★★☆☆ | AI shifts your role to reviewing rather than creating — which is more draining. Practical rules: 3-attempt limit, 70% threshold, mornings AI-free. |
 | 15 | 2026-06-09 | [Making Emojis and Icons Screen Reader Accessible](digests/2026-06-09-making-emojis-and-icons-accessible.md) | engineering, design | ★★★☆☆ | Three HTML patterns for emojis and icon-only buttons: aria-label, aria-hidden + sr-only span, or visible text label — each for different design constraints. |
 | 16 | 2026-06-09 | [Craft Is Untouchable](digests/2026-06-09-craft-is-untouchable.md) | ai, design, leadership | ★★★☆☆ | AI doesn't kill craft — it makes it easier to skip. The discipline of iteration and refinement is still what separates adequate from excellent work. |
+| 17 | 2026-06-10 | [How To Use Standard HTML Video & Audio Lazy-Loading on the Web Today](digests/2026-06-10-how-to-use-standard-html-video-and-audio-lazy-loading-on-the-web-today.md) | engineering, design | ★★★☆☆ | Add `loading="lazy"` to `<video>` and `<audio>` elements to defer loading until they're visible — but only for below-fold media. |
 
 <script>
 (function () {
