@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 27 | 2026-06-11 | [Before He Wrote AI 2027, He Predicted 2026](digests/2026-06-11-before-he-wrote-ai-2027-he-predicted.md) | ai, research | ★★★☆☆ | Kokotajlo's 2021 narrative predictions for 2026 mostly landed — the lesson is that writing concrete future stories beats vague probability estimates for exposing implausibility. |
 | 26 | 2026-06-11 | [Claude Probably Wasn't Secretly Nerfed. Anthropic Made the Black Box Too Dark.](digests/2026-06-11-claude-probably-wasnt-secretly-nerfed.md) | ai, product, devex | ★★★☆☆ | AI tool quality depends on invisible operational settings (cache TTL, effort level, compaction), not just model version — silent config changes degrade output without announcement. |
 | 25 | 2026-06-11 | [The Practical 'Human in the Loop' Framework](digests/2026-06-11-human-in-the-loop-framework.md) | ai, leadership, product | ★★★☆☆ | Real human oversight requires authority to override, time to think, and enough context to spot errors — without all three, "human in the loop" is a formality. |
 | 24 | 2026-06-11 | [Four Modes: Think With AI](digests/2026-06-11-four-modes-think-with-ai.md) | ai, devex | ★★★☆☆ | Identify your cognitive mode before using AI: Compression (find signal), Expansion (generate options), Reflection (stress-test reasoning), or Execution (produce output). |
