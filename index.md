@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 22 | 2026-06-11 | [AI Makes You Boring](digests/2026-06-11-ai-makes-you-boring.md) | ai, leadership | ★★★☆☆ | Delegating thinking to AI skips the struggle that produces original ideas — "human in the loop" oversight adapts humans to AI output, not the reverse. |
 | 21 | 2026-06-11 | [Why AI Sucks At Front End](digests/2026-06-11-why-ai-sucks-at-front-end.md) | ai, engineering, design | ★★★☆☆ | Four structural reasons AI fails at custom front-end work: outdated training data, no visual rendering, no architectural understanding, no browser environment control. |
 | 20 | 2026-06-11 | [My Picture of the Present in AI](digests/2026-06-11-my-picture-of-the-present-in-ai.md) | ai, research | ★★★★☆ | Insider-informed estimates: 1.6–1.75× engineering speed-up at top labs, 8% chance of misaligned AI goals, 60–80% chance of autonomous cyberattacks within 6 months. |
 | 19 | 2026-06-11 | [CSS Subgrid is Super Good](digests/2026-06-11-css-subgrid-is-super-good.md) | engineering, design | ★★★★☆ | Inherit a parent grid's columns in any child element to let content "break out" to full width while staying aligned — no negative margins or JavaScript needed. |
