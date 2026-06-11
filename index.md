@@ -7,6 +7,12 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 <div id="tag-filters" style="margin-bottom:1rem"></div>
 
+### 2026-06-11
+
+| # | Date | Title | Tags | Rating | Summary |
+|---|------|-------|------|--------|---------|
+| 18 | 2026-06-11 | [Alternatives to the !important Keyword](digests/2026-06-11-alternatives-to-the-important-keyword.md) | engineering, design | ★★★☆☆ | Use Cascade Layers, `:is()`, and stylesheet ordering instead of `!important` to resolve CSS conflicts without creating a specificity spiral. |
+
 ### 2026-06-10
 
 | # | Date | Title | Tags | Rating | Summary |
