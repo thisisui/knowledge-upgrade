@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 25 | 2026-06-11 | [The Practical 'Human in the Loop' Framework](digests/2026-06-11-human-in-the-loop-framework.md) | ai, leadership, product | ★★★☆☆ | Real human oversight requires authority to override, time to think, and enough context to spot errors — without all three, "human in the loop" is a formality. |
 | 24 | 2026-06-11 | [Four Modes: Think With AI](digests/2026-06-11-four-modes-think-with-ai.md) | ai, devex | ★★★☆☆ | Identify your cognitive mode before using AI: Compression (find signal), Expansion (generate options), Reflection (stress-test reasoning), or Execution (produce output). |
 | 23 | 2026-06-11 | [What's New in JavaScript: ES2025, ES2026, and Beyond](digests/2026-06-11-whats-new-in-javascript.md) | engineering, tooling | ★★★★☆ | ES2025/2026 feature survey: Set methods, Iterator Helpers, Promise.try, Math.sumPrecise, Map.getOrInsert, and Temporal — several replace patterns in almost every codebase. |
 | 22 | 2026-06-11 | [AI Makes You Boring](digests/2026-06-11-ai-makes-you-boring.md) | ai, leadership | ★★★☆☆ | Delegating thinking to AI skips the struggle that produces original ideas — "human in the loop" oversight adapts humans to AI output, not the reverse. |
