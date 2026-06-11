@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 20 | 2026-06-11 | [My Picture of the Present in AI](digests/2026-06-11-my-picture-of-the-present-in-ai.md) | ai, research | ★★★★☆ | Insider-informed estimates: 1.6–1.75× engineering speed-up at top labs, 8% chance of misaligned AI goals, 60–80% chance of autonomous cyberattacks within 6 months. |
 | 19 | 2026-06-11 | [CSS Subgrid is Super Good](digests/2026-06-11-css-subgrid-is-super-good.md) | engineering, design | ★★★★☆ | Inherit a parent grid's columns in any child element to let content "break out" to full width while staying aligned — no negative margins or JavaScript needed. |
 | 18 | 2026-06-11 | [Alternatives to the !important Keyword](digests/2026-06-11-alternatives-to-the-important-keyword.md) | engineering, design | ★★★☆☆ | Use Cascade Layers, `:is()`, and stylesheet ordering instead of `!important` to resolve CSS conflicts without creating a specificity spiral. |
 
