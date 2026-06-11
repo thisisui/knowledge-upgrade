@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 19 | 2026-06-11 | [CSS Subgrid is Super Good](digests/2026-06-11-css-subgrid-is-super-good.md) | engineering, design | ★★★★☆ | Inherit a parent grid's columns in any child element to let content "break out" to full width while staying aligned — no negative margins or JavaScript needed. |
 | 18 | 2026-06-11 | [Alternatives to the !important Keyword](digests/2026-06-11-alternatives-to-the-important-keyword.md) | engineering, design | ★★★☆☆ | Use Cascade Layers, `:is()`, and stylesheet ordering instead of `!important` to resolve CSS conflicts without creating a specificity spiral. |
 
 ### 2026-06-10
