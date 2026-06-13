@@ -7,6 +7,12 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 <div id="tag-filters" style="margin-bottom:1rem"></div>
 
+### 2026-06-13
+
+| # | Date | Title | Tags | Rating | Summary |
+|---|------|-------|------|--------|---------|
+| 28 | 2026-06-13 | [On Being a Designer in the Most Interesting, Exhausting Moment of Our Careers](digests/2026-06-13-on-being-a-designer-in-the-most-interesting-exhausting-moment.md) | design, ai, leadership | ★★★☆☆ | Taste and judgment are now the scarcest designer skills — AI raises the quality floor, so the value is in knowing which output is worth keeping and which problem is worth solving. |
+
 ### 2026-06-11
 
 | # | Date | Title | Tags | Rating | Summary |
