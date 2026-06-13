@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 29 | 2026-06-13 | [Open Web vs AI: What Can W3C Do?](digests/2026-06-13-open-web-vs-ai-what-can-w3c-do.md) | ai, engineering, business | ★★★☆☆ | AI crawlers cost publishers money and AI summaries cut their revenue — W3C is exploring standards for compensation, attribution, and open agent protocols. |
 | 28 | 2026-06-13 | [On Being a Designer in the Most Interesting, Exhausting Moment of Our Careers](digests/2026-06-13-on-being-a-designer-in-the-most-interesting-exhausting-moment.md) | design, ai, leadership | ★★★☆☆ | Taste and judgment are now the scarcest designer skills — AI raises the quality floor, so the value is in knowing which output is worth keeping and which problem is worth solving. |
 
 ### 2026-06-11
