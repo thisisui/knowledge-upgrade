@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 33 | 2026-06-13 | [Information Architecture (Still) Matters](digests/2026-06-13-information-architecture-still-matters.md) | design, ai, product | ★★☆☆☆ | IA's core work — consistent terminology, clear structure — directly improves AI output quality; the skill transfers well but the article is light on new argument. |
 | 32 | 2026-06-13 | [The Death of Design](digests/2026-06-13-the-death-of-design.md) | design, ai, product | ★★★☆☆ | AI doesn't kill design — generative tools create more decisions to make, not fewer, and chat interfaces exclude users who can't type fast or speak aloud in context. |
 | 31 | 2026-06-13 | [Users Own the Present. You Own the Future.](digests/2026-06-13-users-own-the-present-you-own-the-future.md) | product, design, research | ★★★★☆ | Users own their current reality; product teams own the vision — treating research as a source of answers rather than context produces incremental, user-dictated products. |
 | 30 | 2026-06-13 | [Boost Design Autonomy with an Information Pipeline](digests/2026-06-13-boost-design-autonomy-with-an-information-pipeline.md) | design, product, leadership | ★★★☆☆ | Designers who gain product influence treat information-gathering as a deliberate weekly system — tracker, relationships, shared spaces — not a passive side activity. |
