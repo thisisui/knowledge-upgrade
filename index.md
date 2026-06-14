@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 37 | 2026-06-14 | [The World's Most Complex Machine](digests/2026-06-14-the-worlds-most-complex-machine.md) | engineering, business, research | ★★★★☆ | ASML owns the only machines that can print advanced chips — won by outsourcing to 5,000+ suppliers, co-developing with TSMC, and making a 20-year bet on EUV that rivals abandoned. |
 | 36 | 2026-06-14 | [Designing, Refining, and Maintaining Agent Skills at Perplexity](digests/2026-06-14-designing-refining-and-maintaining-agent-skills-at-perplexity.md) | ai, engineering, devex | ★★★★★ | Write Skill descriptions as routing triggers ("Load when..."), pack content with gotchas not procedures, and load heavy files conditionally — every token costs every user every session. |
 | 35 | 2026-06-14 | [Iron Core Part 2: Six Characters](digests/2026-06-14-iron-core-part-2-six-characters.md) | engineering, product | ★★★★☆ | The 6-character PNR booking code is not globally unique — the e-ticket number is the real primary key; fares are priced in a currency-neutral unit (NUC) and only converted at purchase time. |
 | 34 | 2026-06-14 | [Design Is the Work](digests/2026-06-14-design-is-the-work.md) | design, product | ★★☆☆☆ | Design is not a handoff phase before "real" work — it is the primary form of productive work; full content inaccessible (JavaScript-rendered site). |
