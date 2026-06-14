@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 35 | 2026-06-14 | [Iron Core Part 2: Six Characters](digests/2026-06-14-iron-core-part-2-six-characters.md) | engineering, product | ★★★★☆ | The 6-character PNR booking code is not globally unique — the e-ticket number is the real primary key; fares are priced in a currency-neutral unit (NUC) and only converted at purchase time. |
 | 34 | 2026-06-14 | [Design Is the Work](digests/2026-06-14-design-is-the-work.md) | design, product | ★★☆☆☆ | Design is not a handoff phase before "real" work — it is the primary form of productive work; full content inaccessible (JavaScript-rendered site). |
 
 ### 2026-06-13
