@@ -7,6 +7,12 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 <div id="tag-filters" style="margin-bottom:1rem"></div>
 
+### 2026-06-14
+
+| # | Date | Title | Tags | Rating | Summary |
+|---|------|-------|------|--------|---------|
+| 34 | 2026-06-14 | [Design Is the Work](digests/2026-06-14-design-is-the-work.md) | design, product | ★★☆☆☆ | Design is not a handoff phase before "real" work — it is the primary form of productive work; full content inaccessible (JavaScript-rendered site). |
+
 ### 2026-06-13
 
 | # | Date | Title | Tags | Rating | Summary |
