@@ -7,6 +7,12 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 <div id="tag-filters" style="margin-bottom:1rem"></div>
 
+### 2026-06-19
+
+| # | Date | Title | Tags | Rating | Summary |
+|---|------|-------|------|--------|---------|
+| 38 | 2026-06-19 | [Agent-Native Product Management](digests/2026-06-19-agent-native-product-management.md) | ai, product, engineering | ★★★★☆ | AI agents handle ticket writing, SQL queries, and metric reports — the PM's job shifts from writing documents to having structured conversations with agents that produce sharper output. |
+
 ### 2026-06-14
 
 | # | Date | Title | Tags | Rating | Summary |
