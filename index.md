@@ -11,6 +11,8 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 46 | 2026-06-19 | [The boring internet](digests/2026-06-19-the-boring-internet.md) | engineering, business | ★★★☆☆ | Platforms are dying, not the internet — the protocol layer (email, RSS, HTTP) is federated by design and structurally resistant to capture or consolidation. |
+| 45 | 2026-06-19 | [Mockups were never the hard part](digests/2026-06-19-mockups-were-never-the-hard-part.md) | design, product, ai | ★★★★☆ | AI-generated mockups skip the visual debate and force teams into harder product questions — design value must migrate from layout to system coherence. |
 | 44 | 2026-06-19 | [All aboard the voice to text train](digests/2026-06-19-all-aboard-the-voice-to-text-train.md) | tooling, devex | ★★★☆☆ | TypeWhisper: free macOS voice-to-text with local Whisper models, custom vocab, snippet expansion, and Claude cleanup — the author wrote the review entirely by voice. |
 | 43 | 2026-06-19 | [The organization is the bottleneck](digests/2026-06-19-the-organization-is-the-bottleneck.md) | ai, engineering, leadership | ★★★★☆ | AI amplifies org maturity — guardrails, deployment pipelines, and platform teams determine whether AI coding gains compound or create chaos. |
 | 42 | 2026-06-19 | [The bottleneck was never the code](digests/2026-06-19-the-bottleneck-was-never-the-code.md) | ai, engineering, leadership | ★★★★☆ | Coding agents don't remove the real constraint — alignment, specs, and focus discipline were always the bottleneck; tacit organizational context is now the competitive moat. |
