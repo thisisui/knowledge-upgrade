@@ -11,6 +11,7 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 39 | 2026-06-19 | [Design from the Inside](digests/2026-06-19-design-from-the-inside.md) | design, product, engineering | ★★★★☆ | Working directly in the codebase instead of design tools collapses the gap between decision and shipped result — push changes for review rather than seeking approval for mock-ups. |
 | 38 | 2026-06-19 | [Agent-Native Product Management](digests/2026-06-19-agent-native-product-management.md) | ai, product, engineering | ★★★★☆ | AI agents handle ticket writing, SQL queries, and metric reports — the PM's job shifts from writing documents to having structured conversations with agents that produce sharper output. |
 
 ### 2026-06-14
