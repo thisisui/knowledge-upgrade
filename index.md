@@ -11,6 +11,9 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 42 | 2026-06-19 | [The bottleneck was never the code](digests/2026-06-19-the-bottleneck-was-never-the-code.md) | ai, engineering, leadership | ★★★★☆ | Coding agents don't remove the real constraint — alignment, specs, and focus discipline were always the bottleneck; tacit organizational context is now the competitive moat. |
+| 41 | 2026-06-19 | [Designing stable interfaces for streaming content](digests/2026-06-19-designing-stable-interfaces-for-streaming-content.md) | engineering, devex, design | ★★★★☆ | Three patterns for streaming UIs: scroll-intent threshold, incremental text-node writes, and rAF batching — decouple data arrival speed from render speed. |
+| 40 | 2026-06-19 | [Appearing productive in the workplace](digests/2026-06-19-appearing-productive-in-the-workplace.md) | ai, leadership, product | ★★★★☆ | AI enables polished outputs that mask missing expertise — "output-competence decoupling" means orgs now reward the appearance of productivity over actual knowledge. |
 | 39 | 2026-06-19 | [Design from the Inside](digests/2026-06-19-design-from-the-inside.md) | design, product, engineering | ★★★★☆ | Working directly in the codebase instead of design tools collapses the gap between decision and shipped result — push changes for review rather than seeking approval for mock-ups. |
 | 38 | 2026-06-19 | [Agent-Native Product Management](digests/2026-06-19-agent-native-product-management.md) | ai, product, engineering | ★★★★☆ | AI agents handle ticket writing, SQL queries, and metric reports — the PM's job shifts from writing documents to having structured conversations with agents that produce sharper output. |
 
