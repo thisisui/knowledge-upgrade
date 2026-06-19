@@ -11,6 +11,8 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 | # | Date | Title | Tags | Rating | Summary |
 |---|------|-------|------|--------|---------|
+| 54 | 2026-06-19 | [The duality of language models in the browser](digests/2026-06-19-the-duality-of-language-models-in-the-browser.md) | ai, engineering, research | ★★★☆☆ | In-browser SLMs offer local privacy and no API cost, but risk Chrome-era vendor lock-in if specs ship tied to a single model — needs model choice and device fallbacks. |
+| 53 | 2026-06-19 | [The text is not the product](digests/2026-06-19-the-text-is-not-the-product.md) | ai, research, leadership | ★★★★☆ | Writing's real product is the human capacity developed by doing it — AI shortcuts erode that; accountability is the non-replicable part of human authorship. |
 | 52 | 2026-06-19 | [Human creativity benchmark](digests/2026-06-19-human-creativity-benchmark.md) | ai, research, design | ★★★☆☆ | 15,000 human judgments across 5 creative domains show AI creative output is converging toward consistent acceptability — pairwise Bradley-Terry ranking is a replicable eval method. |
 | 51 | 2026-06-19 | [When sites need to walk away](digests/2026-06-19-when-sites-need-to-walk-away.md) | engineering, business | ★★★☆☆ | 26% of 2013–2023 pages are gone — most sites delete rather than archive; a static snapshot costs <$4/month and preserves years of community value. |
 | 50 | 2026-06-19 | [AI slop is killing online communities](digests/2026-06-19-ai-slop-is-killing-online-communities.md) | ai, business, leadership | ★★★☆☆ | Zero-friction AI posting degrades communities via Brandolini's Law — the test before sharing: did you think, or did you just paste? |
