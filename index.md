@@ -7,6 +7,14 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 <div id="tag-filters" style="margin-bottom:1rem"></div>
 
+### 2026-06-22
+
+| # | Date | Title | Tags | Rating | Summary |
+|---|------|-------|------|--------|---------|
+| 67 | 2026-06-22 | [WebAIM: Tolerating inaccessibility](digests/2026-06-22-webaim-tolerating-inaccessibility.md) | engineering, design | ★★★☆☆ | Web accessibility worsens year-over-year (56.1 barriers/page in 2026 vs 51 in 2025) because the real bottleneck is organisational priority, not tooling — fix requires connecting to the disability rights movement. |
+| 66 | 2026-06-22 | [Why I spent years trying to make CSS states predictable](digests/2026-06-22-why-i-spent-years-trying-to-make-css-states-predictable.md) | engineering, tooling | ★★★☆☆ | CSS specificity + source order force devs to manually maintain a hidden state resolution system — Tasty compiles declarative state maps into non-overlapping selectors so the compiler enforces priority instead. |
+| 65 | 2026-06-22 | [The old world of tech is dying and the new cannot be born](digests/2026-06-22-the-old-world-of-tech-is-dying-and-the-new-cannot-be-born.md) | business, engineering | ★★★★☆ | The global tech industry was built on US geopolitical dominance, not genuine value creation — as that dominance erodes, the "capture and control entire industries" playbook loses its foundation. |
+
 ### 2026-06-19
 
 | # | Date | Title | Tags | Rating | Summary |
