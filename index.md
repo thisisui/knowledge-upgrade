@@ -7,6 +7,14 @@ A personal reading log. Each entry is a short summary of an article worth rememb
 
 <div id="tag-filters" style="margin-bottom:1rem"></div>
 
+### 2026-06-25
+
+| # | Date | Title | Tags | Rating | Summary |
+|---|------|-------|------|--------|---------|
+| 83 | 2026-06-25 | [Cynicism is a Luxury; Hope is a Necessity](digests/2026-06-25-cynicism-is-a-luxury-hope-is-a-necessity.md) | design, leadership | ★★★☆☆ | A working system disappears from view — so not having to think about a system signals it serves you; modern tech is "machinery for not-looking", cynicism is disengagement dressed as wisdom, and hope is a discipline, not a mood. |
+| 82 | 2026-06-25 | [Figma Agent: A First Look](digests/2026-06-25-figma-agent-a-first-look.md) | ai, design, tooling | ★★★☆☆ | Hands-on beta review: Figma's in-canvas AI agent nails layout-driven work (slide decks, signup flows, colour variables) but fails at precise craft (icons, logos); slow iteration makes it a first-draft tool, with a warning to protect design fundamentals. |
+| 81 | 2026-06-25 | [Why I Don't Use Icon Fonts in Figma](digests/2026-06-25-why-i-dont-use-icon-fonts-in-figma.md) | design, tooling | ★★☆☆☆ | Seven reasons to store icons as SVG components instead of icon fonts in Figma — visual previews, fuzzy search, instance swapping, multi-colour, and easier team sharing all favour SVG; the only icon-font edge (inline-with-text) breaks in Figma anyway. |
+
 ### 2026-06-22
 
 | # | Date | Title | Tags | Rating | Summary |
